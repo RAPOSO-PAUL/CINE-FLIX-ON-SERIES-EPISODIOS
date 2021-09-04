@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wtskhfr/a-sombra-e-a-escurid-o.jpg" group-title="AVENTURA", A Sombra e a Escuridão
 magnet:?xt=urn:btih:c24bd63e87fcadb4c262ffa275327e054b55b029
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RgSZm0y/equilibrium.jpg" group-title="FICÇÃO", Equilibrium
+magnet:?xt=urn:btih:2e7c18dfe142035438fd857cdccd19099c02ffeb

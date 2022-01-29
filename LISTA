@@ -1,3 +1,9 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title="HERÓIS", Shang-Chi e a Lenda dos Dez Anéis
-https://srv40.hosti.me/hls/qt5dvnyu4bd6wyrbfu5x3vymuoo6fv2rjvh5v74gox7xvd23aj4bydlzrdna/index-v1-a1.m3u8
+<item>
+<title>[COLOR green]|[/COLOR][COLOR yellow]|[/COLOR][COLOR white] Shang-Chi e a Lenda dos Dez Anéis[/COLOR][COLOR blue] DIRETO[/COLOR]</title>
+<link>https://srv40.hosti.me/hls/qt5dvnyu4bd6wyrbfu5x3vymuoo6fv2rjvh5v74gox7xvd23aj4bydlzrdna/index-v1-a1.m3u8</link>
+<thumbnail>https://i.ibb.co/9tRHcsR/shang-chi.jpg</thumbnail>
+<fanart>https://i.ibb.co/dPxPd9Y/shang-chi-fanart.jpg</fanart>
+<info>[COLOR lime][B]ANO DE LANÇAMENTO:[/B][/COLOR] [COLOR white][B]2021[/COLOR]
+[COLOR lime][B]GÊNERO:[/B][/COLOR][COLOR white][B] Heróis[/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Telegram @cinekodi2020: Para dúvidas e pedidos - Shang-Chi precisa confrontar o passado que pensou ter deixado para trás. Ao mesmo tempo, ele é envolvido em uma teia de mistérios da organização conhecida como Dez Anéis.[/B][/COLOR]</info>
+</item>

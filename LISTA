@@ -1,15 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wtskhfr/a-sombra-e-a-escurid-o.jpg" group-title="AVENTURA", A Sombra e a Escuridão
-magnet:?xt=urn:btih:c24bd63e87fcadb4c262ffa275327e054b55b029
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RgSZm0y/equilibrium.jpg" group-title="FICÇÃO", Equilibrium
-magnet:?xt=urn:btih:2e7c18dfe142035438fd857cdccd19099c02ffeb
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gSYNscc/paixao-de-cristo.jpg" group-title="BIOGRAFIA", A Paixão de Cristo
-magnet:?xt=urn:btih:bd3c191e3e847812e98bca8e62cbb4b4e6c14d1d
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HzVTGvk/blade-runner-2049.jpg" group-title="FICÇÃO", Blade Runner 2049
-magnet:?xt=urn:btih:30605424a1162ff555de22b57e59ce6c964f90fd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yXMwMVY/speed-racer.jpg" group-title="AVENTURA", Speed Racer
-magnet:?xt=urn:btih:18255d32b566bbda2ea3c348a59809ffc72ef1f5
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w1280/ArrOBeio968bUuUOtEpKa1teIh4.jpg" group-title="HERÓIS", Shang-Chi e a Lenda dos Dez Anéis
+https://srv40.hosti.me/hls/qt5dvnyu4bd6wyrbfu5x3vymuoo6fv2rjvh5v74gox7xvd23aj4bydlzrdna/index-v1-a1.m3u8

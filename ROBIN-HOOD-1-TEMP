@@ -1,3 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channel>
+    <item playable="true">
+        <title>[COLOR green]|| [/COLOR][COLOR white] Robin Hood [/COLOR][COLOR red][B]|[/B][/COLOR][COLOR green][B]|[/B][/COLOR][COLOR white] EPISÓDIO 1[/COLOR][COLOR green] (DUAL ÁUDIO 1080p)[/COLOR]</title>
+
+        <link><![CDATA[
+plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af113292da7f137f52216526a01f034e8d2f480a&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.Robin.Hood.S01E01-02.1080p.WEB-DL.DUAL.5.1&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce
+        ]]></link>
+
+        <thumbnail><![CDATA[https://www.themoviedb.org/t/p/w1280/8rc0CmErcqvncULcq5IEVkBvbHP.jpg]]></thumbnail>
+        <fanart><![CDATA[https://image.tmdb.org/t/p/original/iGXov4pwqxoRXpcHIraR453Fbcs.jpg]]></fanart>
+
+        <info><![CDATA[
+[COLOR lime][B]LANÇAMENTO:[/B][/COLOR] [COLOR white][B]11/2025[/B][/COLOR]
+[COLOR lime][B]TEMPORADA:[/B][/COLOR][COLOR white][B] 1[/B][/COLOR]
+[COLOR lime][B]EPISÓDIO:[/B][/COLOR][COLOR white][B] 1[/B][/COLOR]
+[COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]O filho de um guarda florestal saxão perde tudo. Uma lenda nasce em sangue. Começa a luta pela alma da Inglaterra.[/B][/COLOR]
+        ]]></info>
+    </item>
+</channel>
+
 <item>
 <title>[COLOR green]|| [/COLOR][COLOR white] Robin Hood [/COLOR][COLOR red][B]|[/B][/COLOR][COLOR green][B]|[/B][/COLOR][COLOR white] EPISÓDIO 1[/COLOR][COLOR green] (DUAL ÁUDIO 1080p)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af113292da7f137f52216526a01f034e8d2f480a&dn=HIDRATORRENTS.ORG.-DUBLADO-DUAL-AUDIO-.Robin.Hood.S01E01-02.1080p.WEB-DL.DUAL.5.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce</link>

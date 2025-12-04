@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
 <item>
 <title>[COLOR green]|| [/COLOR][COLOR white] Robin hood [/COLOR][COLOR red][B]|[/B][/COLOR][COLOR green][B]|[/B][/COLOR][COLOR white] EPISÓDIO 1[/COLOR][COLOR green] (DUAL ÁUDIO 1080p)[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29bb89a4c48cf857107d8388a0dfb8c3fae6c53d&dn=HIDRATORRENTS.ORG..MKV.Stranger.Things.S05.VOLUME.01.1080p.WEB-DL.DUAL.5.1&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce</link>
@@ -76,3 +78,4 @@ plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:af113292da7f137f522
 [COLOR lime][B]EPISÓDIO:[/B][/COLOR][COLOR white][B] 5[/B][/COLOR]
 [COLOR yellow][B]SINOPSE:[/B][/COLOR] [COLOR white][B]Rob arrisca tudo para salvar os Miller. Em Westminster, o mundo de Marian se abala com a notícia da morte de seu irmão.[/B][/COLOR]</info>
 </item>
+</items>
